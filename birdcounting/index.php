@@ -1,6 +1,5 @@
 <?php
 namespace Perasser\BirdCounting;
-require 'vendor/autoload.php';
 
 $bird = new Bird(4,"Meisen");
 $bird2 = new Bird(5,"Sperlinge");
